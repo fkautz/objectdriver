@@ -19,9 +19,8 @@ package memory
 import (
 	"testing"
 
-	"github.com/minio-io/objectdriver"
-
 	. "github.com/minio-io/check"
+	"github.com/minio-io/objectdriver"
 )
 
 func Test(t *testing.T) { TestingT(t) }
